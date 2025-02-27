@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@handsontable/react": "^15.1.0",
+    "axios": "^1.8.1",
+    "handsontable": "^15.1.0",
+    "mathjs": "^14.2.1"
+  }
+}
